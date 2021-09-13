@@ -1,2 +1,2 @@
-# kinwelo.github.io
-Personal portfolio website.
+# Personal website portfolio
+My portfolio website made with flutter.
