@@ -57274,7 +57274,7 @@ n=L.bD("Mateusz",B.c9(o,C.ah,l,1.1),l,l)
 o=L.bD("Olewnik",B.c9(o,C.a8,l,l),l,l)
 m=P.aC(0,50,0)
 s=B.c9(s,C.a7,l,l)
-return M.c6(l,T.iJ(C.aU,H.b([k,M.c6(l,T.js(H.b([q,p,n,o,T.iC(H.b([U.a9O(!1,m,H.b([" I am an aspiring young programmer\n working primarily in .NET environment\n who is constantly learning suitable\n technologies through\n projects and passions."],t.i),s)],r),C.ad,C.a4,C.bt),T.cL(l,j*0.035,l)],r),C.bq,C.a4),l,l,l,new V.aP(i*0.07,j*0.12,0,0),l,l)],r),C.ba),l,l,j,l,l,i)}}
+return M.c6(l,T.iJ(C.aU,H.b([k,M.c6(l,T.js(H.b([q,p,n,o,T.iC(H.b([U.a9O(!1,m,H.b([" I am an aspiring young\n programmer working primarily in\n  .NET environment\n who is constantly learning\n suitable technologies\n through projects\n and\n passions."],t.i),s)],r),C.ad,C.a4,C.bt),T.cL(l,j*0.035,l)],r),C.bq,C.a4),l,l,l,new V.aP(i*0.07,j*0.12,0,0),l,l)],r),C.ba),l,l,j,l,l,i)}}
 V.BF.prototype={
 F:function(a,b){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=b.J(j).f.a.b,h=b.J(j).f.a.a
 j=h<740
